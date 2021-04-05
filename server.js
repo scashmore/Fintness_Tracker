@@ -5,8 +5,6 @@ const path = require("path");
 
 const PORT = process.env.PORT || 3000;
 
-const workout = require("./models");
-
 const app = express();
 
 app.use(express.urlencoded({ extended: true }));
