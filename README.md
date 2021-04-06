@@ -15,4 +15,4 @@ To use this application, simply choose to either continue with an exorcise or st
 
 The user then can choose between cardio and resistance training. Afterwards, the user can enter the name of their excorsies, distance, duration, etc.
 
-![Image](/image/fitness2.png)
+![Image](/images/fitness2.png)
