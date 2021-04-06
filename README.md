@@ -11,14 +11,8 @@ Deployed here:  https://salty-hollows-33890.herokuapp.com/exercise?id=undefined
 
 To use this application, simply choose to either continue with an exorcise or start a new one!
 
-![Image](/images/fitness1)
+![Image](/images/fitness1.png)
 
 The user then can choose between cardio and resistance training. Afterwards, the user can enter the name of their excorsies, distance, duration, etc.
 
-![Image](/image/fitness2)
-
-![Image](/image/fitness3)
-
-##Install
-
-This application requires no additional instillantion fro the user.
+![Image](/image/fitness2.png)
